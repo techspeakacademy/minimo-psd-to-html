@@ -1,0 +1,270 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: playfair display;
+}
+
+header{
+	width: 95%;
+	margin: auto;
+	margin: 50px;
+	overflow: hidden;
+}
+.logo{
+	width: 20%;
+	float: left;
+
+}
+.menu{
+	width: 50%;
+	float: right;
+}
+.menu ul {
+	list-style: none;
+	float: right;
+}
+.menu ul li {
+	float: left;
+
+}
+.menu ul li a{
+	color: #626262;
+	text-decoration:none;
+	font-size: 18px;
+	text-transform:uppercase;
+	margin-left:50px;
+}
+.banner{
+	width: 95%;
+	margin: auto;
+	margin-top: 30px;
+
+}
+.banner img{
+	width: 100%;
+
+}
+.content{
+	width: 80%;
+	margin: auto;
+	margin-top: 100px;
+}
+.content span{
+	margin-bottom: 15px;
+	display: block;
+	font-size: 16px;
+	text-transform: uppercase;
+	color: #b4ad9e;
+}
+.content h1{
+	color: #626262;
+	font-size: 30px;
+	margin-bottom: 30px;
+
+}
+.content p{
+	color: #626262;
+	line-height: 1.6;
+	margin-bottom: 15px;
+}
+.life_style{
+	width: 80%;
+	margin: auto;
+	margin-top: 50px;
+	overflow: hidden;
+	margin-bottom: 100px;
+
+}
+.lifestyle-one{
+	width: 45%;
+	float: left;
+}
+.lifestyle-two{
+	width: 45%;
+	float: right;
+}
+.life_style_img img{
+	width: 100%;
+}
+.life_style h1{
+	color: #626262;
+	font-size: 30px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.life_style p{
+	color: #626262;
+	line-height: 1.6;
+	margin-bottom: 15px;
+}
+.life_style span{
+	margin-top: 30px;
+	display: block;
+	font-size: 16px;
+	text-transform: uppercase;
+	color: #b4ad9e;
+}
+.photodiary{
+	width: 80%;
+	margin: auto;
+	margin-top: 50px;
+	overflow: hidden;
+	margin-bottom: 100px;
+
+}
+.photodiary-one{
+	width: 45%;
+	float: left;
+}
+.photodiary-two{
+	width: 45%;
+	float: right;
+}
+.photodiary_img img{
+	width: 100%;
+}
+.photodiary h1{
+	color: #626262;
+	font-size: 30px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.photodiary p{
+	color: #626262;
+	line-height: 1.6;
+	margin-bottom: 15px;
+}
+.photodiary span{
+	margin-top: 30px;
+	display: block;
+	font-size: 16px;
+	text-transform: uppercase;
+	color: #b4ad9e;
+}
+
+/*song part start*/
+.song{
+	width: 80%;
+	margin: auto;
+	margin-top: 50px;
+	overflow: hidden;
+	margin-bottom: 100px;
+
+}
+.song-one{
+	width: 45%;
+	float: left;
+}
+.song-two{
+	width: 45%;
+	float: right;
+}
+.song_img img{
+	width: 100%;
+}
+.song h1{
+	color: #626262;
+	font-size: 30px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.song p{
+	color: #626262;
+	line-height: 1.6;
+	margin-bottom: 15px;
+}
+.song span{
+	margin-top: 30px;
+	display: block;
+	font-size: 16px;
+	text-transform: uppercase;
+	color: #b4ad9e;
+}
+.newslatter{
+	height: 200px;
+	background-color: #f0f0f0;
+}
+.newslatter_content{
+	width: 20%;
+	margin: auto;
+	padding-top: 50px;
+	position: relative;
+
+}
+.newslatter_content h1{
+	margin-bottom: 50px;
+	color: #626262;
+}
+
+.newslatter_content input{
+	border: none;
+	background-color: transparent;
+	border-bottom: 1px solid;
+	width: 100%;
+}
+.icon{
+	position: absolute;
+	bottom:0;
+	right: 0
+}
+.btn{
+	height: 250px;
+	width: 10%;
+	margin: auto;
+}
+.btn input{
+	padding: 20px;
+	background: transparent;
+	border:1px solid;
+	font-size: 20px;
+	
+}
+footer{
+	height: 100px;
+	background-color: #f0f0f0;
+}
+.footer-content{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+	padding-top: 40px;
+}
+.terms{
+	float: left;
+	width: 40%;
+}
+.terms ul{
+	list-style: none;
+
+}
+.terms ul li{
+	float: left;
+
+}
+
+.terms ul li a{
+	margin: 10px;
+	color: black;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+
+.social_follow{
+	float: right;
+	width: 30%;
+}
+.social_follow ul{
+	list-style: none;
+	float: right;
+
+}
+.social_follow ul li {
+	float: left;
+}
+.social_follow ul li a{
+	margin: 10px;
+	color: black;
+	text-decoration: none;
+	text-transform: uppercase;
+}
